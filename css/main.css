@@ -3438,7 +3438,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-plan__block {
-  background: #ffffff;
+  background: #e7e7e7;
   border-radius: 4px;
   padding: 5.6rem 4.2rem 5.4rem;
   margin-bottom: 4rem;
@@ -3460,7 +3460,7 @@ html.no-csstransitions .home-content__main {
 
 .item-plan__price {
   font-family: "Chivo", sans-serif;
-  font-size: 7.4rem;
+  font-size: 6rem;
   line-height: 1.081;
   font-weight: 600;
   color: #000000;
