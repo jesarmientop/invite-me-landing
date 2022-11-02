@@ -1,0 +1,8 @@
+{
+    "name": "jeremias/inviteme",
+    "description": "Landing Page inviteme",
+    "type": "project",
+    "require": {
+        "php": "8.0.13"
+    }
+}
