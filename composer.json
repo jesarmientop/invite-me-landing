@@ -3,6 +3,6 @@
     "description": "Landing Page inviteme",
     "type": "project",
     "require": {
-        "php": "7.0.33"
+        "php": "8.1.12"
     }
 }
