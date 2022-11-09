@@ -1020,6 +1020,11 @@ input[type="button"].btn--primary {
   border-color: #5b4f96;
   color: #ffffff;
 }
+input[type="button"].btn--primary-white {
+  background: #ffffff;
+  border-color: #ffffff;
+  color: #5b4f96
+}
 
 .btn.btn--primary:hover,
 button.btn--primary:hover,
