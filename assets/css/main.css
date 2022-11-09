@@ -2782,7 +2782,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-about-how {
   background-color: #ffffff;
-  padding-bottom: 16rem;
+  -padding-bottom: 16rem;
 }
 
 .video-bg {
