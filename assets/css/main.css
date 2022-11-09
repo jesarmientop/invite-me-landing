@@ -3129,6 +3129,7 @@ html.no-csstransitions .home-content__main {
   .video-bg {
     height: 48rem;
     margin-top: calc((48rem/2) * -1);
+    margin-bottom: -200px!important;
   }
 
   .video-icon {
@@ -3572,7 +3573,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:600px) {
   .s-pricing {
-    padding-top: 14.8rem;
+    padding-top: 0.8rem;
     padding-bottom: 12rem;
   }
 
